@@ -1,6 +1,7 @@
 
 1. Deskripsikan we yang ingin anda buat:
 website yang ingin saya buat adalah website tentang usaha supplier frozen food yang lebih mengutamakan produk-produk homemade disamping produk pabrikan dengan harga di bawah pasaran yang diperuntukkan pada reseller. Web ini akan didominasi dengan warna biru laut untuk mendeskripsikn sisi makanan beku. Di dalam website akan ditampilkan:
+
 - deskripsi usaha
 - berita seputar makanan
 - contact person
