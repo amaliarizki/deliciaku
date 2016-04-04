@@ -14,19 +14,21 @@ website yang ingin saya buat adalah website tentang usaha supplier frozen food y
 - testimoni
 - galeri foto
 - kerjasama
+
 2. Referensi website:
 - http://kraukk.com/
 - https://greenmommyshop.wordpress.com/
 - https://pabrikfrozenfood.wordpress.com/
-3.Bagian-bagian halaman website:
--home : deskripsi usaha
--produk yang dijual
--Faq
--kontak
--artikel yang berkaitan dengan web
--keranjang belanja
--keranjang belnja
--pengiriman
+
+3. Bagian-bagian halaman website:
+- home : deskripsi usaha
+- produk yang dijual
+- Faq
+- kontak
+- artikel yang berkaitan dengan web
+- keranjang belanja
+- keranjang belnja
+- pengiriman
 
 
  
