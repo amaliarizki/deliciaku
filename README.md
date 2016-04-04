@@ -1,0 +1,2 @@
+# deliciaku
+frozen corner
